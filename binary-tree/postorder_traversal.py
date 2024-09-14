@@ -1,3 +1,8 @@
+"""
+Binary Tree Postorder Traversal.
+
+Link: https://leetcode.cn/problems/binary-tree-postorder-traversal/
+"""
 # Definition for a binary tree node.
 class TreeNode:
     def __init__(self, val: int=0, left: 'TreeNode | None'=None, right: 'TreeNode | None'=None):

@@ -1,3 +1,8 @@
+"""
+Maximum Depth of Binary Tree.
+
+Link: https://leetcode.cn/problems/maximum-depth-of-binary-tree/
+"""
 # Definition for a binary tree node.
 class TreeNode:
     def __init__(self, val: int=0, left: 'TreeNode | None'=None, right: 'TreeNode | None'=None):
