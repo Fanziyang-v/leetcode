@@ -23,6 +23,7 @@
 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium     | [lowest_common_ancestor.py](./binary-tree/lowest_common_ancestor.py) |
 | [Path Sum](https://leetcode.cn/problems/path-sum/)           | Medium     | [has_path_sum.py](./binary-tree/has_path_sum.py)             |
 | [Serialize and Deserialize Binary Tree](https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/) | Hard       | [codec.py](./binary-tree/codec.py)                           |
+| [Path Sum Ⅱ](https://leetcode.cn/problems/path-sum-ii/)      | Medium     | [path_sum.py](./binary-tree/path_sum.py)                     |
 |                                                              |            |                                                              |
 
 ## Linked List
@@ -35,5 +36,5 @@
 | [Linked List Cycle](https://leetcode.cn/problems/linked-list-cycle/) | Easy       | [has_cycle.py](./linked-list/has_cycle.py)                   |
 | [Linked List Cycle Ⅱ](https://leetcode.cn/problems/linked-list-cycle-ii/) | Medium     | [detect_cycle.py](./linked-list/detect_cycle.py)             |
 | [Reverse Linked List](https://leetcode.cn/problems/reverse-linked-list/) | Easy       | [reverse_list.py](./linked-list/reverse_list.py)             |
+| [Palindrome Linked List](https://leetcode.cn/problems/palindrome-linked-list/) | Easy       | [is_palindrome.py](./linked-list/is_palindrome.py)           |
 |                                                              |            |                                                              |
-
