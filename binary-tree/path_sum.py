@@ -30,5 +30,5 @@ def path_sum(root: TreeNode | None, target_sum: int) -> list[list[int]]:
         traverse(root.left, target - root.val, track)
         traverse(root.right, target - root.val, track)
         track.pop()
-    traverse()
+    traverse(root, target_sum)
     return res
