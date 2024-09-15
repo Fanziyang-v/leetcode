@@ -22,6 +22,7 @@
 | [Validate Binary Search Tree](https://leetcode.cn/problems/validate-binary-search-tree/) | Medium     | [is_validBST.py](./binary-tree/is_validBST.py)               |
 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium     | [lowest_common_ancestor.py](./binary-tree/lowest_common_ancestor.py) |
 | [Path Sum](https://leetcode.cn/problems/path-sum/)           | Medium     | [has_path_sum.py](./binary-tree/has_path_sum.py)             |
+| [Serialize and Deserialize Binary Tree](https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/) | Hard       | [codec.py](./binary-tree/codec.py)                           |
 |                                                              |            |                                                              |
 
 ## Linked List
