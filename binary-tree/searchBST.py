@@ -1,5 +1,5 @@
 """
-Search in a Binary Tree.
+Search in a Binary Search Tree.
 
 Link: https://leetcode.cn/problems/search-in-a-binary-search-tree/
 """
