@@ -4,7 +4,7 @@
 
 ## Binary Tree
 
-| Problem                                                      | Difficulty | solution                                                     |
+| Problem                                                      | Difficulty | Solution                                                     |
 | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
 | [Binary Tree Preorder Traversal](https://leetcode.cn/problems/binary-tree-preorder-traversal/) | Easy       | [preorder_traversal.py](./binary-tree/preorder_traversal.py) |
 | [Binary Tree Inorder Traversal](https://leetcode.cn/problems/binary-tree-inorder-traversal/) | Easy       | [inorder_traversal.py](./binary-tree/inorder_traversal.py)   |
@@ -24,5 +24,15 @@
 | [Path Sum](https://leetcode.cn/problems/path-sum/)           | Medium     | [has_path_sum.py](./binary-tree/has_path_sum.py)             |
 |                                                              |            |                                                              |
 
+## Linked List
 
+| Problem                                                      | Difficulty | Solution                                                     |
+| ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
+| [Merge Two Sorted Lists](https://leetcode.cn/problems/merge-two-sorted-lists/) | Easy       | [merge_two_lists.py](./linked-list/merge_two_lists.py)       |
+| [Remove Nth Node from End of List](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/) | Medium     | [remove_nth_from_end.py](./linked-list/remove_nth_from_end.py) |
+| [Remove Duplicates from Sorted List](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/) | Easy       | [remove_duplicates.py](./linked-list/remove_duplicates.py)   |
+| [Linked List Cycle](https://leetcode.cn/problems/linked-list-cycle/) | Easy       | [has_cycle.py](./linked-list/has_cycle.py)                   |
+| [Linked List Cycle Ⅱ](https://leetcode.cn/problems/linked-list-cycle-ii/) | Medium     | [detect_cycle.py](./linked-list/detect_cycle.py)             |
+| [Reverse Linked List](https://leetcode.cn/problems/reverse-linked-list/) | Easy       | [reverse_list.py](./linked-list/reverse_list.py)             |
+|                                                              |            |                                                              |
 
