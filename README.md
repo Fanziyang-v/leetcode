@@ -29,7 +29,6 @@
 | [Serialize and Deserialize Binary Tree](https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/) | Hard       | [codec.py](./binary-tree/codec.py)                           |
 | [Symmetric Tree](https://leetcode.cn/problems/symmetric-tree/) | Easy       | [is_symmetric.py](./binary-tree/is_symmetric.py)             |
 | [Validate Binary Search Tree](https://leetcode.cn/problems/validate-binary-search-tree/) | Medium     | [is_validBST.py](./binary-tree/is_validBST.py)               |
-|                                                              |            |                                                              |
 
 ## Linked List
 
@@ -42,13 +41,11 @@
 | [Remove Nth Node from End of List](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/) | Medium     | [remove_nth_from_end.py](./linked-list/remove_nth_from_end.py) |
 | [Remove Duplicates from Sorted List](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/) | Easy       | [remove_duplicates.py](./linked-list/remove_duplicates.py)   |
 | [Reverse Linked List](https://leetcode.cn/problems/reverse-linked-list/) | Easy       | [reverse_list.py](./linked-list/reverse_list.py)             |
-|                                                              |            |                                                              |
 
 ## Priority Queue
 
-| Problem | Difficulty | Solution |
-| ------- | ---------- | -------- |
-|         |            |          |
-|         |            |          |
-|         |            |          |
+| Problem                                                      | Difficulty | Solution                                                    |
+| ------------------------------------------------------------ | ---------- | ----------------------------------------------------------- |
+| [Kth Largest Element in an Array](https://leetcode.cn/problems/kth-largest-element-in-an-array/) | Medium     | [find_kth_largest.py](./priority-queue/find_kth_largest.py) |
+| [Top K Frequent Words](https://leetcode.cn/problems/top-k-frequent-words/) | Medium     | [top_k_frequent.py](./priority-queue/top_k_frequent.py)     |
 
