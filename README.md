@@ -51,3 +51,9 @@
 | [Kth Largest Element in an Array](https://leetcode.cn/problems/kth-largest-element-in-an-array/) | Medium     | [find_kth_largest.py](./priority-queue/find_kth_largest.py) |
 | [Top K Frequent Words](https://leetcode.cn/problems/top-k-frequent-words/) | Medium     | [top_k_frequent.py](./priority-queue/top_k_frequent.py)     |
 
+## Binary Search
+
+| Problem                                                      | Difficulty | Solution                               |
+| ------------------------------------------------------------ | ---------- | -------------------------------------- |
+| [Binary Search](https://leetcode.cn/problems/binary-search/) | Easy       | [search.py](./binary-search/search.py) |
+
