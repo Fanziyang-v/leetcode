@@ -36,13 +36,18 @@
 
 | Problem                                                      | Difficulty | Solution                                                     |
 | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
+| [Convert a Binary Number in a Linked List to Integer](https://leetcode.cn/problems/convert-binary-number-in-a-linked-list-to-integer/) | Easy       | [get_decimal_value.py](./linked-list/get_decimal_value.py)   |
+| [Intersection of Two Linked Lists](https://leetcode.cn/problems/intersection-of-two-linked-lists/) | Easy       | [get_intersection_node.py](./linked-list/get_intersection_node.py) |
 | [Linked List Cycle](https://leetcode.cn/problems/linked-list-cycle/) | Easy       | [has_cycle.py](./linked-list/has_cycle.py)                   |
 | [Linked List Cycle Ⅱ](https://leetcode.cn/problems/linked-list-cycle-ii/) | Medium     | [detect_cycle.py](./linked-list/detect_cycle.py)             |
 | [Merge Two Sorted Lists](https://leetcode.cn/problems/merge-two-sorted-lists/) | Easy       | [merge_two_lists.py](./linked-list/merge_two_lists.py)       |
+| [Middle of Linked List](https://leetcode.cn/problems/middle-of-the-linked-list/) | Easy       | [middle_node.py](./linked-list/middle_node.py)               |
+| [Odd Even Linked List](https://leetcode.cn/problems/odd-even-linked-list/) | Medium     | [odd_even_list.py](./linked-list/odd_even_list.py)           |
 | [Palindrome Linked List](https://leetcode.cn/problems/palindrome-linked-list/) | Easy       | [is_palindrome.py](./linked-list/is_palindrome.py)           |
 | [Remove Nth Node from End of List](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/) | Medium     | [remove_nth_from_end.py](./linked-list/remove_nth_from_end.py) |
 | [Remove Duplicates from Sorted List](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/) | Easy       | [remove_duplicates.py](./linked-list/remove_duplicates.py)   |
 | [Reverse Linked List](https://leetcode.cn/problems/reverse-linked-list/) | Easy       | [reverse_list.py](./linked-list/reverse_list.py)             |
+| [Sort List](https://leetcode.cn/problems/sort-list/)         | Medium     | [sort_list.py](./linked-list/sort_list.py)                   |
 
 ## Priority Queue
 
