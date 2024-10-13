@@ -58,7 +58,8 @@
 
 ## Binary Search
 
-| Problem                                                      | Difficulty | Solution                               |
-| ------------------------------------------------------------ | ---------- | -------------------------------------- |
-| [Binary Search](https://leetcode.cn/problems/binary-search/) | Easy       | [search.py](./binary-search/search.py) |
+| Problem                                                      | Difficulty | Solution                                           |
+| ------------------------------------------------------------ | ---------- | -------------------------------------------------- |
+| [Binary Search](https://leetcode.cn/problems/binary-search/) | Easy       | [search.py](./binary-search/search.py)             |
+| [Find First and Last Position of Element in Sorted Array](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium     | [search_range.py](./binary-search/search_range.py) |
 
