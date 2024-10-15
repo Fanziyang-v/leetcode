@@ -50,6 +50,7 @@
 | [Reverse Linked List](https://leetcode.cn/problems/reverse-linked-list/) | Easy       | [reverse_list.py](./linked-list/reverse_list.py)             |
 | [Remove Nodes in Even Length Groups](https://leetcode.cn/problems/reverse-nodes-in-even-length-groups/) | Medium     | [remove_even_length_groups.py](./linked-list/remove_even_length_groups.py) |
 | [Sort List](https://leetcode.cn/problems/sort-list/)         | Medium     | [sort_list.py](./linked-list/sort_list.py)                   |
+| [Next Greater Node in Linked List](https://leetcode.cn/problems/next-greater-node-in-linked-list/) | Medium     | [next_larger_nodes.py](./linked-list/next_larger_nodes.py)   |
 
 ## Priority Queue
 
