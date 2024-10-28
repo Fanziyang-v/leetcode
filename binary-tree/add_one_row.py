@@ -23,7 +23,7 @@ def add_one_row(root: TreeNode, val: int, depth: int) -> TreeNode:
         return TreeNode(val, left=root)
 
     layer = [root]
-    for _ in range(depth - 1):
+    for _ in range(depth - 2):
         next_layer: list[TreeNode] = []
         for node in layer:
             if node.left:
