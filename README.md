@@ -6,6 +6,8 @@
 
 | Problem                                                      | Difficulty | Solution                                                     |
 | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
+| [Add One Row to Tree](https://leetcode.cn/problems/add-one-row-to-tree/) | Medium     | [add_one_row.py](./binary-tree/add_one_row.py)               |
+| [Average of Levels in Binary Tree](https://leetcode.cn/problems/average-of-levels-in-binary-tree/) | Easy       | [average_of_levels.py](./binary-tree/average_of_levels.py)   |
 | [Balanced Binary Tree](https://leetcode.cn/problems/balanced-binary-tree/) | Easy       | [is_balanced.py](./binary-tree/is_balanced.py)               |
 | [Binary Tree Inorder Traversal](https://leetcode.cn/problems/binary-tree-inorder-traversal/) | Easy       | [inorder_traversal.py](./binary-tree/inorder_traversal.py)   |
 | [Binary Tree Level Order Traversal](https://leetcode.cn/problems/binary-tree-level-order-traversal/) | Medium     | [level_order.py](./binary-tree/level_order.py)               |
@@ -17,6 +19,7 @@
 | [Construct Sorted Array to Binary Search Tree](https://leetcode.cn/problems/convert-sorted-array-to-binary-search-tree/) | Medium     | [sorted_array2BST.py](./binary-tree/sorted_array2BST.py)     |
 | [Convert Sorted List to Binary Search Tree](https://leetcode.cn/problems/convert-sorted-list-to-binary-search-tree/) | Medium     | [sorted_list2BST.py](./binary-tree/sorted_list2BST.py)       |
 | [Delete Node in a Binary Search Tree](https://leetcode.cn/problems/delete-node-in-a-bst/) | Medium     | [delete_node.py](./binary-tree/delete_node.py)               |
+| [Find Largest Values in Each Tree Row](https://leetcode.cn/problems/find-largest-value-in-each-tree-row/) | Medium     | [largest_values](./binary-tree/largest_values.py)            |
 | [Flatten Binary Tree To Linked List](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/) | Medium     | [flatten.py](./binary-tree/flatten.py)                       |
 | [Insert into a Binary Search Tree](https://leetcode.cn/problems/insert-into-a-binary-search-tree/) | Medium     | [insert_intoBST.py](./binary-tree/insert_intoBST.py)         |
 | [Invert Binary Tree](https://leetcode.cn/problems/invert-binary-tree/) | Easy       | [invert_tree](./binary-tree/invert_tree.py)                  |
