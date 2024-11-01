@@ -27,6 +27,7 @@
 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium     | [lowest_common_ancestor.py](./binary-tree/lowest_common_ancestor.py) |
 | [Maximum Depth of Binary Tree](https://leetcode.cn/problems/maximum-depth-of-binary-tree/) | Easy       | [max_depth.py](./binary-tree/max_depth.py)                   |
 | [Minimum Depth of Binary Tree](https://leetcode.cn/problems/minimum-depth-of-binary-tree/) | Easy       | [min_depth.py](./binary-tree/min_depth.py)                   |
+| [Most Frequent Subtree Sum](https://leetcode.cn/problems/most-frequent-subtree-sum/) | Medium     | [find_frequent_tree_sum.py](./binary-tree/find_frequent_tree_sum.py) |
 | [Path Sum](https://leetcode.cn/problems/path-sum/)           | Medium     | [has_path_sum.py](./binary-tree/has_path_sum.py)             |
 | [Path Sum Ⅱ](https://leetcode.cn/problems/path-sum-ii/)      | Medium     | [path_sum.py](./binary-tree/path_sum.py)                     |
 | [Same Tree](https://leetcode.cn/problems/same-tree/)         | Easy       | [is_same_tree.py](./binary-tree/is_same_tree.py)             |
