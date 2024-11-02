@@ -30,6 +30,7 @@
 | [Most Frequent Subtree Sum](https://leetcode.cn/problems/most-frequent-subtree-sum/) | Medium     | [find_frequent_tree_sum.py](./binary-tree/find_frequent_tree_sum.py) |
 | [Path Sum](https://leetcode.cn/problems/path-sum/)           | Medium     | [has_path_sum.py](./binary-tree/has_path_sum.py)             |
 | [Path Sum Ⅱ](https://leetcode.cn/problems/path-sum-ii/)      | Medium     | [path_sum.py](./binary-tree/path_sum.py)                     |
+| [Path Sum Ⅲ](https://leetcode.cn/problems/path-sum-iii/)     | Medium     | [path_sum2.py](./binary-tree/path_sum2.py)                   |
 | [Same Tree](https://leetcode.cn/problems/same-tree/)         | Easy       | [is_same_tree.py](./binary-tree/is_same_tree.py)             |
 | [Search in a Binary Search Tree](https://leetcode.cn/problems/search-in-a-binary-search-tree/) | Easy       | [searchBST.py](./binary-tree/searchBST.py)                   |
 | [Serialize and Deserialize Binary Tree](https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/) | Hard       | [codec.py](./binary-tree/codec.py)                           |
@@ -51,6 +52,7 @@
 | [Palindrome Linked List](https://leetcode.cn/problems/palindrome-linked-list/) | Easy       | [is_palindrome.py](./linked-list/is_palindrome.py)           |
 | [Remove Nth Node from End of List](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/) | Medium     | [remove_nth_from_end.py](./linked-list/remove_nth_from_end.py) |
 | [Remove Duplicates from Sorted List](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/) | Easy       | [remove_duplicates.py](./linked-list/remove_duplicates.py)   |
+| [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.cn/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium     | [remove_zero_sum_sublists.py](./binary-tree/remove_zero_sum_sublists.py) |
 | [Reverse Linked List](https://leetcode.cn/problems/reverse-linked-list/) | Easy       | [reverse_list.py](./linked-list/reverse_list.py)             |
 | [Remove Nodes in Even Length Groups](https://leetcode.cn/problems/reverse-nodes-in-even-length-groups/) | Medium     | [remove_even_length_groups.py](./linked-list/remove_even_length_groups.py) |
 | [Sort List](https://leetcode.cn/problems/sort-list/)         | Medium     | [sort_list.py](./linked-list/sort_list.py)                   |
