@@ -73,10 +73,12 @@
 | [Find First and Last Position of Element in Sorted Array](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium     | [search_range.py](./binary-search/search_range.py)           |
 | [Search in Rotated Sorted Array](https://leetcode.cn/problems/search-in-rotated-sorted-array/) | Medium     | [search_rotated_array.py](./binary-search/search_rotated_array.py) |
 | [Search in Rotated Sorted Array Ⅱ](https://leetcode.cn/problems/search-in-rotated-sorted-array-ii/) | Medium     | [search_rotated_array2.py](./binary-search/search_rotated_array2.py) |
+| [Missing Number](https://leetcode.cn/problems/missing-number/) | Easy       | [find_missing_number.py](./binary-search/find_missing_number.py) |
 
 ## Sliding Window
 
 | Problem                                                      | Difficulty | Solution                                                     |
 | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
 | [Minimum Size Subarray Sum](https://leetcode.cn/problems/minimum-size-subarray-sum/) | Medium     | [min_sub_array_len.py](./sliding-window/min_sub_array_len.py) |
+| [Sliding Window Maximum](https://leetcode.cn/problems/sliding-window-maximum/) | Hard       | [max_sliding_window.py](./sliding-window/max_sliding_window.py) |
 
