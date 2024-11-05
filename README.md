@@ -81,4 +81,5 @@
 | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
 | [Minimum Size Subarray Sum](https://leetcode.cn/problems/minimum-size-subarray-sum/) | Medium     | [min_sub_array_len.py](./sliding-window/min_sub_array_len.py) |
 | [Sliding Window Maximum](https://leetcode.cn/problems/sliding-window-maximum/) | Hard       | [max_sliding_window.py](./sliding-window/max_sliding_window.py) |
+| [Find the Power of K-Size Subarray I](https://leetcode.cn/problems/find-the-power-of-k-size-subarrays-i/) | Medium     | [results_array.py](./sliding-window/results_array.py)        |
 
