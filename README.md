@@ -83,3 +83,11 @@
 | [Sliding Window Maximum](https://leetcode.cn/problems/sliding-window-maximum/) | Hard       | [max_sliding_window.py](./sliding-window/max_sliding_window.py) |
 | [Find the Power of K-Size Subarray I](https://leetcode.cn/problems/find-the-power-of-k-size-subarrays-i/) | Medium     | [results_array.py](./sliding-window/results_array.py)        |
 
+## Dynamic Programming
+
+| Problem                                                      | Difficulty | Solution                                                   |
+| ------------------------------------------------------------ | ---------- | ---------------------------------------------------------- |
+| [Fibonacci Number](https://leetcode.cn/problems/fibonacci-number/) | Easy       | [fib.py](./dynamic-programming/fib.py)                     |
+| [Maximum Subarray](https://leetcode.cn/problems/maximum-subarray/) | Medium     | [max_sub_array.py](./dynamic-programming/max_sub_array.py) |
+| [Minimum Path Sum](https://leetcode.cn/problems/minimum-path-sum/) | Medium     | [min_path_sum.py](./dynamic-programming/min_path_sum.py)   |
+
