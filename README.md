@@ -85,9 +85,10 @@
 
 ## Dynamic Programming
 
-| Problem                                                      | Difficulty | Solution                                                   |
-| ------------------------------------------------------------ | ---------- | ---------------------------------------------------------- |
-| [Fibonacci Number](https://leetcode.cn/problems/fibonacci-number/) | Easy       | [fib.py](./dynamic-programming/fib.py)                     |
-| [Maximum Subarray](https://leetcode.cn/problems/maximum-subarray/) | Medium     | [max_sub_array.py](./dynamic-programming/max_sub_array.py) |
-| [Minimum Path Sum](https://leetcode.cn/problems/minimum-path-sum/) | Medium     | [min_path_sum.py](./dynamic-programming/min_path_sum.py)   |
+| Problem                                                      | Difficulty | Solution                                                     |
+| ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
+| [Fibonacci Number](https://leetcode.cn/problems/fibonacci-number/) | Easy       | [fib.py](./dynamic-programming/fib.py)                       |
+| [Maximum Subarray](https://leetcode.cn/problems/maximum-subarray/) | Medium     | [max_sub_array.py](./dynamic-programming/max_sub_array.py)   |
+| [Minimum Path Sum](https://leetcode.cn/problems/minimum-path-sum/) | Medium     | [min_path_sum.py](./dynamic-programming/min_path_sum.py)     |
+| [longest_palindrome](https://leetcode.cn/problems/longest-palindromic-substring/) | Medium     | [longest_palindrome.py](./dynamic-programming/longest_palindrome.py) |
 
