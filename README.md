@@ -93,4 +93,6 @@
 | [Jump Game II](https://leetcode.cn/problems/jump-game-ii/)   | Medium     | [jump](./dynamic-programming/jump.py)                        |
 | [Maximum Subarray](https://leetcode.cn/problems/maximum-subarray/) | Medium     | [max_sub_array.py](./dynamic-programming/max_sub_array.py)   |
 | [Minimum Path Sum](https://leetcode.cn/problems/minimum-path-sum/) | Medium     | [min_path_sum.py](./dynamic-programming/min_path_sum.py)     |
+| [Unique Paths](https://leetcode.cn/problems/unique-paths/)   | Medium     | [unique_paths.py](./dynamic-programming/unique_paths.py)     |
+| [Unique Paths II](https://leetcode.cn/problems/unique-paths-ii/) | Medium     | [unique_paths_with_obstacles.py](./dynamic-programming/unique_paths_with_obstacles.py) |
 
