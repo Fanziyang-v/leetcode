@@ -28,9 +28,9 @@
 | [Maximum Depth of Binary Tree](https://leetcode.cn/problems/maximum-depth-of-binary-tree/) | Easy       | [max_depth.py](./binary-tree/max_depth.py)                   |
 | [Minimum Depth of Binary Tree](https://leetcode.cn/problems/minimum-depth-of-binary-tree/) | Easy       | [min_depth.py](./binary-tree/min_depth.py)                   |
 | [Most Frequent Subtree Sum](https://leetcode.cn/problems/most-frequent-subtree-sum/) | Medium     | [find_frequent_tree_sum.py](./binary-tree/find_frequent_tree_sum.py) |
-| [Path Sum](https://leetcode.cn/problems/path-sum/)           | Medium     | [has_path_sum.py](./binary-tree/has_path_sum.py)             |
-| [Path Sum Ⅱ](https://leetcode.cn/problems/path-sum-ii/)      | Medium     | [path_sum.py](./binary-tree/path_sum.py)                     |
-| [Path Sum Ⅲ](https://leetcode.cn/problems/path-sum-iii/)     | Medium     | [path_sum2.py](./binary-tree/path_sum2.py)                   |
+| [Path Sum I](https://leetcode.cn/problems/path-sum/)         | Medium     | [has_path_sum.py](./binary-tree/has_path_sum.py)             |
+| [Path Sum II](https://leetcode.cn/problems/path-sum-ii/)     | Medium     | [path_sum.py](./binary-tree/path_sum.py)                     |
+| [Path Sum III](https://leetcode.cn/problems/path-sum-iii/)   | Medium     | [path_sum2.py](./binary-tree/path_sum2.py)                   |
 | [Same Tree](https://leetcode.cn/problems/same-tree/)         | Easy       | [is_same_tree.py](./binary-tree/is_same_tree.py)             |
 | [Search in a Binary Search Tree](https://leetcode.cn/problems/search-in-a-binary-search-tree/) | Easy       | [searchBST.py](./binary-tree/searchBST.py)                   |
 | [Serialize and Deserialize Binary Tree](https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/) | Hard       | [codec.py](./binary-tree/codec.py)                           |
@@ -45,7 +45,7 @@
 | [Delete the Middle Node of a Linked List](https://leetcode.cn/problems/delete-the-middle-node-of-a-linked-list/) | Medium     | [delete_middle.py](./linked-list/delete_middle.py)           |
 | [Intersection of Two Linked Lists](https://leetcode.cn/problems/intersection-of-two-linked-lists/) | Easy       | [get_intersection_node.py](./linked-list/get_intersection_node.py) |
 | [Linked List Cycle](https://leetcode.cn/problems/linked-list-cycle/) | Easy       | [has_cycle.py](./linked-list/has_cycle.py)                   |
-| [Linked List Cycle Ⅱ](https://leetcode.cn/problems/linked-list-cycle-ii/) | Medium     | [detect_cycle.py](./linked-list/detect_cycle.py)             |
+| [Linked List Cycle II](https://leetcode.cn/problems/linked-list-cycle-ii/) | Medium     | [detect_cycle.py](./linked-list/detect_cycle.py)             |
 | [Merge Two Sorted Lists](https://leetcode.cn/problems/merge-two-sorted-lists/) | Easy       | [merge_two_lists.py](./linked-list/merge_two_lists.py)       |
 | [Middle of Linked List](https://leetcode.cn/problems/middle-of-the-linked-list/) | Easy       | [middle_node.py](./linked-list/middle_node.py)               |
 | [Odd Even Linked List](https://leetcode.cn/problems/odd-even-linked-list/) | Medium     | [odd_even_list.py](./linked-list/odd_even_list.py)           |
@@ -71,8 +71,8 @@
 | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
 | [Binary Search](https://leetcode.cn/problems/binary-search/) | Easy       | [search.py](./binary-search/search.py)                       |
 | [Find First and Last Position of Element in Sorted Array](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium     | [search_range.py](./binary-search/search_range.py)           |
-| [Search in Rotated Sorted Array](https://leetcode.cn/problems/search-in-rotated-sorted-array/) | Medium     | [search_rotated_array.py](./binary-search/search_rotated_array.py) |
-| [Search in Rotated Sorted Array Ⅱ](https://leetcode.cn/problems/search-in-rotated-sorted-array-ii/) | Medium     | [search_rotated_array2.py](./binary-search/search_rotated_array2.py) |
+| [Search in Rotated Sorted Array I](https://leetcode.cn/problems/search-in-rotated-sorted-array/) | Medium     | [search_rotated_array.py](./binary-search/search_rotated_array.py) |
+| [Search in Rotated Sorted Array II](https://leetcode.cn/problems/search-in-rotated-sorted-array-ii/) | Medium     | [search_rotated_array2.py](./binary-search/search_rotated_array2.py) |
 | [Missing Number](https://leetcode.cn/problems/missing-number/) | Easy       | [find_missing_number.py](./binary-search/find_missing_number.py) |
 
 ## Sliding Window
@@ -88,13 +88,15 @@
 | Problem                                                      | Difficulty | Solution                                                     |
 | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
 | [Fibonacci Number](https://leetcode.cn/problems/fibonacci-number/) | Easy       | [fib.py](./dynamic-programming/fib.py)                       |
-| [Jump Game](https://leetcode.cn/problems/jump-game/)         | Medium     | [can_jump.py](./dynamic-programming/can_jump.py)             |
-| [Jump Game II](https://leetcode.cn/problems/jump-game-ii/)   | Medium     | [jump](./dynamic-programming/jump.py)                        |
+| [House Robber I](https://leetcode.cn/problems/house-robber/) | Medium     | [rob1.py](./dynamic-programming/rob1.py)                     |
+| [Jump Game I](https://leetcode.cn/problems/jump-game/)       | Medium     | [can_jump.py](./dynamic-programming/can_jump.py)             |
+| [Jump Game II](https://leetcode.cn/problems/jump-game-ii/)   | Medium     | [jump.py](./dynamic-programming/jump.py)                     |
 | [Longest_Palindrome](https://leetcode.cn/problems/longest-palindromic-substring/) | Medium     | [longest_palindrome.py](./dynamic-programming/longest_palindrome.py) |
+| [Maximal Squares](https://leetcode.cn/problems/maximal-square/) | Medium     | [maximal_squares.py](./dynamic-programming/maximal_squares.py) |
 | [Maximum Subarray](https://leetcode.cn/problems/maximum-subarray/) | Medium     | [max_sub_array.py](./dynamic-programming/max_sub_array.py)   |
 | [Minimum Path Sum](https://leetcode.cn/problems/minimum-path-sum/) | Medium     | [min_path_sum.py](./dynamic-programming/min_path_sum.py)     |
 | [Pascal's Triangle I](https://leetcode.cn/problems/pascals-triangle/) | Easy       | [pasacals_triangle1.py](./dynamic-programming/pascals_triangle1.py) |
 | [Pascal's Triangle II](https://leetcode.cn/problems/pascals-triangle-ii/) | Easy       | [pasacals_triangle2.py](./dynamic-programming/pascals_triangle2.py) |
-| [Unique Paths](https://leetcode.cn/problems/unique-paths/)   | Medium     | [unique_paths.py](./dynamic-programming/unique_paths.py)     |
+| [Unique Paths I](https://leetcode.cn/problems/unique-paths/) | Medium     | [unique_paths.py](./dynamic-programming/unique_paths.py)     |
 | [Unique Paths II](https://leetcode.cn/problems/unique-paths-ii/) | Medium     | [unique_paths_with_obstacles.py](./dynamic-programming/unique_paths_with_obstacles.py) |
 
