@@ -87,6 +87,8 @@
 
 | Problem                                                      | Difficulty | Solution                                                     |
 | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
+| [Decode Ways](https://leetcode.cn/problems/decode-ways/)     | Medium     | [num_decodings.py](./dynamic-programming/num_decodings.py)   |
+| [Edit Distance](https://leetcode.cn/problems/edit-distance/) | Medium     | [min_distance.py](./dynamic-programming/min_distance.py)     |
 | [Fibonacci Number](https://leetcode.cn/problems/fibonacci-number/) | Easy       | [fib.py](./dynamic-programming/fib.py)                       |
 | [House Robber I](https://leetcode.cn/problems/house-robber/) | Medium     | [rob1.py](./dynamic-programming/rob1.py)                     |
 | [Jump Game I](https://leetcode.cn/problems/jump-game/)       | Medium     | [can_jump.py](./dynamic-programming/can_jump.py)             |
