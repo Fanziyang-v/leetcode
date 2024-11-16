@@ -87,10 +87,12 @@
 
 | Problem                                                      | Difficulty | Solution                                                     |
 | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
+| [Count Sorted Vowel Strings](https://leetcode.cn/problems/count-sorted-vowel-strings/) | Medium     | [count_vowel_strings.py](./dynamic-programming/count_vowel_strings.py) |
 | [Decode Ways](https://leetcode.cn/problems/decode-ways/)     | Medium     | [num_decodings.py](./dynamic-programming/num_decodings.py)   |
 | [Edit Distance](https://leetcode.cn/problems/edit-distance/) | Medium     | [min_distance.py](./dynamic-programming/min_distance.py)     |
 | [Fibonacci Number](https://leetcode.cn/problems/fibonacci-number/) | Easy       | [fib.py](./dynamic-programming/fib.py)                       |
 | [House Robber I](https://leetcode.cn/problems/house-robber/) | Medium     | [rob1.py](./dynamic-programming/rob1.py)                     |
+| [Integer Break](https://leetcode.cn/problems/integer-break/) | Medium     | [integer_break.py](./dynamic-programming/integer_break.py)   |
 | [Jump Game I](https://leetcode.cn/problems/jump-game/)       | Medium     | [can_jump.py](./dynamic-programming/can_jump.py)             |
 | [Jump Game II](https://leetcode.cn/problems/jump-game-ii/)   | Medium     | [jump.py](./dynamic-programming/jump.py)                     |
 | [Longest_Palindrome](https://leetcode.cn/problems/longest-palindromic-substring/) | Medium     | [longest_palindrome.py](./dynamic-programming/longest_palindrome.py) |
@@ -100,12 +102,14 @@
 | [Minimum Total](https://leetcode.cn/problems/triangle/)      | Medium     | [minimum_total.py](./dynamic-programming/minimum_total.py)   |
 | [Pascal's Triangle I](https://leetcode.cn/problems/pascals-triangle/) | Easy       | [pasacals_triangle1.py](./dynamic-programming/pascals_triangle1.py) |
 | [Pascal's Triangle II](https://leetcode.cn/problems/pascals-triangle-ii/) | Easy       | [pasacals_triangle2.py](./dynamic-programming/pascals_triangle2.py) |
+| [Perfect Squares](https://leetcode.cn/problems/perfect-squares/) | Medium     | [num_sqaures.py](./dynamic-programming/num_squares.py)       |
 | [Unique Paths I](https://leetcode.cn/problems/unique-paths/) | Medium     | [unique_paths.py](./dynamic-programming/unique_paths.py)     |
 | [Unique Paths II](https://leetcode.cn/problems/unique-paths-ii/) | Medium     | [unique_paths_with_obstacles.py](./dynamic-programming/unique_paths_with_obstacles.py) |
 
 ## Combinatorics
 
-| Problem                                                    | Difficulty | Solution                                           |
-| ---------------------------------------------------------- | ---------- | -------------------------------------------------- |
-| [Unique Paths](https://leetcode.cn/problems/unique-paths/) | Medium     | [unique_paths.py](./combinatorics/unique_paths.py) |
+| Problem                                                      | Difficulty | Solution                                                     |
+| ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
+| [Unique Paths](https://leetcode.cn/problems/unique-paths/)   | Medium     | [unique_paths.py](./combinatorics/unique_paths.py)           |
+| [Count Numbers with Unique Digits](https://leetcode.cn/problems/count-numbers-with-unique-digits/) | Medium     | [count_numbers_with_unique_digits.py](./combinatorics/count_numbers_with_unique_digits.py) |
 
