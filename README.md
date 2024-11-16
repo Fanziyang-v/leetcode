@@ -97,6 +97,7 @@
 | [Maximal Squares](https://leetcode.cn/problems/maximal-square/) | Medium     | [maximal_squares.py](./dynamic-programming/maximal_squares.py) |
 | [Maximum Subarray](https://leetcode.cn/problems/maximum-subarray/) | Medium     | [max_sub_array.py](./dynamic-programming/max_sub_array.py)   |
 | [Minimum Path Sum](https://leetcode.cn/problems/minimum-path-sum/) | Medium     | [min_path_sum.py](./dynamic-programming/min_path_sum.py)     |
+| [Minimum Total](https://leetcode.cn/problems/triangle/)      | Medium     | [minimum_total.py](./dynamic-programming/minimum_total.py)   |
 | [Pascal's Triangle I](https://leetcode.cn/problems/pascals-triangle/) | Easy       | [pasacals_triangle1.py](./dynamic-programming/pascals_triangle1.py) |
 | [Pascal's Triangle II](https://leetcode.cn/problems/pascals-triangle-ii/) | Easy       | [pasacals_triangle2.py](./dynamic-programming/pascals_triangle2.py) |
 | [Unique Paths I](https://leetcode.cn/problems/unique-paths/) | Medium     | [unique_paths.py](./dynamic-programming/unique_paths.py)     |
