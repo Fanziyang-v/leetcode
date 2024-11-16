@@ -95,7 +95,8 @@
 | [Integer Break](https://leetcode.cn/problems/integer-break/) | Medium     | [integer_break.py](./dynamic-programming/integer_break.py)   |
 | [Jump Game I](https://leetcode.cn/problems/jump-game/)       | Medium     | [can_jump.py](./dynamic-programming/can_jump.py)             |
 | [Jump Game II](https://leetcode.cn/problems/jump-game-ii/)   | Medium     | [jump.py](./dynamic-programming/jump.py)                     |
-| [Longest_Palindrome](https://leetcode.cn/problems/longest-palindromic-substring/) | Medium     | [longest_palindrome.py](./dynamic-programming/longest_palindrome.py) |
+| [Longest Increasing Subsequence](https://leetcode.cn/problems/longest-increasing-subsequence/) | Medium     | [length_of_lis.py](./dynamic-programming/length_of_lis.py)   |
+| [Longest Palindrome](https://leetcode.cn/problems/longest-palindromic-substring/) | Medium     | [longest_palindrome.py](./dynamic-programming/longest_palindrome.py) |
 | [Maximal Squares](https://leetcode.cn/problems/maximal-square/) | Medium     | [maximal_squares.py](./dynamic-programming/maximal_squares.py) |
 | [Maximum Subarray](https://leetcode.cn/problems/maximum-subarray/) | Medium     | [max_sub_array.py](./dynamic-programming/max_sub_array.py)   |
 | [Minimum Path Sum](https://leetcode.cn/problems/minimum-path-sum/) | Medium     | [min_path_sum.py](./dynamic-programming/min_path_sum.py)     |
@@ -103,6 +104,7 @@
 | [Pascal's Triangle I](https://leetcode.cn/problems/pascals-triangle/) | Easy       | [pasacals_triangle1.py](./dynamic-programming/pascals_triangle1.py) |
 | [Pascal's Triangle II](https://leetcode.cn/problems/pascals-triangle-ii/) | Easy       | [pasacals_triangle2.py](./dynamic-programming/pascals_triangle2.py) |
 | [Perfect Squares](https://leetcode.cn/problems/perfect-squares/) | Medium     | [num_sqaures.py](./dynamic-programming/num_squares.py)       |
+| [Ugly Number II](https://leetcode.cn/problems/ugly-number-ii/) | Medium     | [nth_ugly_number.py](./dynamic-programming/nth_ugly_number.py) |
 | [Unique Paths I](https://leetcode.cn/problems/unique-paths/) | Medium     | [unique_paths.py](./dynamic-programming/unique_paths.py)     |
 | [Unique Paths II](https://leetcode.cn/problems/unique-paths-ii/) | Medium     | [unique_paths_with_obstacles.py](./dynamic-programming/unique_paths_with_obstacles.py) |
 
