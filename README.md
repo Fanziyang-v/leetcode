@@ -102,3 +102,9 @@
 | [Unique Paths I](https://leetcode.cn/problems/unique-paths/) | Medium     | [unique_paths.py](./dynamic-programming/unique_paths.py)     |
 | [Unique Paths II](https://leetcode.cn/problems/unique-paths-ii/) | Medium     | [unique_paths_with_obstacles.py](./dynamic-programming/unique_paths_with_obstacles.py) |
 
+## Combinatorics
+
+| Problem                                                    | Difficulty | Solution                                           |
+| ---------------------------------------------------------- | ---------- | -------------------------------------------------- |
+| [Unique Paths](https://leetcode.cn/problems/unique-paths/) | Medium     | [unique_paths.py](./combinatorics/unique_paths.py) |
+
