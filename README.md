@@ -121,4 +121,5 @@
 | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
 | [Combination Sum](https://leetcode.cn/problems/combination-sum/) | Medium     | [combination_sum.py](./backtrack/combination_sum.py)         |
 | [Letter Combinations of a Phone Number](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/) | Medium     | [letter_combinations.py](./backtrack/letter_combinations.py) |
+| [Permutations](https://leetcode.cn/problems/permutations/)   | Medium     | [permute.py](./backtrack/permute.py)                         |
 
