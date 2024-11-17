@@ -115,3 +115,10 @@
 | [Unique Paths](https://leetcode.cn/problems/unique-paths/)   | Medium     | [unique_paths.py](./combinatorics/unique_paths.py)           |
 | [Count Numbers with Unique Digits](https://leetcode.cn/problems/count-numbers-with-unique-digits/) | Medium     | [count_numbers_with_unique_digits.py](./combinatorics/count_numbers_with_unique_digits.py) |
 
+## Backtrack
+
+| Problem                                                      | Difficulty | Solution                                                     |
+| ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
+| [Combination Sum](https://leetcode.cn/problems/combination-sum/) | Medium     | [combination_sum.py](./backtrack/combination_sum.py)         |
+| [Letter Combinations of a Phone Number](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/) | Medium     | [letter_combinations.py](./backtrack/letter_combinations.py) |
+
