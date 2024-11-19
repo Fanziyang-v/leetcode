@@ -124,5 +124,10 @@
 | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
 | [Combination Sum](https://leetcode.cn/problems/combination-sum/) | Medium     | [combination_sum.py](./backtrack/combination_sum.py)         |
 | [Letter Combinations of a Phone Number](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/) | Medium     | [letter_combinations.py](./backtrack/letter_combinations.py) |
+| [N-Queens I](https://leetcode.cn/problems/n-queens/)         | Hard       | [solve_n_queens1.py](./backtrack/solve_n_queens1.py)         |
+| [N-Queens II](https://leetcode.cn/problems/n-queens-ii/)     | Hard       | [solve_n_queens2.py](./backtrack/solve_n_queens2.py)         |
 | [Permutations](https://leetcode.cn/problems/permutations/)   | Medium     | [permute.py](./backtrack/permute.py)                         |
+| [Subset I](https://leetcode.cn/problems/subsets/)            | Medium     | [subset1.py](./backtrack/subset1.py)                         |
+| [Subset II](https://leetcode.cn/problems/subsets-ii/)        | Medium     | [subset2.py](./backtrack/subset2.py)                         |
+| [Sudoku Solver](https://leetcode.cn/problems/sudoku-solver/) | Hard       | [solve_sudoku.py](./backtrack/solve_sudoku.py)               |
 
