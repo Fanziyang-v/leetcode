@@ -87,11 +87,14 @@
 
 | Problem                                                      | Difficulty | Solution                                                     |
 | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
+| [Coin Change](https://leetcode.cn/problems/coin-change/)     | Medium     | [coin_change.py](./dynamic-programming/coin_change.py)       |
 | [Count Sorted Vowel Strings](https://leetcode.cn/problems/count-sorted-vowel-strings/) | Medium     | [count_vowel_strings.py](./dynamic-programming/count_vowel_strings.py) |
 | [Decode Ways](https://leetcode.cn/problems/decode-ways/)     | Medium     | [num_decodings.py](./dynamic-programming/num_decodings.py)   |
 | [Edit Distance](https://leetcode.cn/problems/edit-distance/) | Medium     | [min_distance.py](./dynamic-programming/min_distance.py)     |
 | [Fibonacci Number](https://leetcode.cn/problems/fibonacci-number/) | Easy       | [fib.py](./dynamic-programming/fib.py)                       |
 | [House Robber I](https://leetcode.cn/problems/house-robber/) | Medium     | [rob1.py](./dynamic-programming/rob1.py)                     |
+| [House Robber II](https://leetcode.cn/problems/house-robber-ii/) | Medium     | [rob2.py](./dynamic-programming/rob2.py)                     |
+| [House Robber III](https://leetcode.cn/problems/house-robber-iii/) | Medium     | [rob3.py](./dynamic-programming/rob3.py)                     |
 | [Integer Break](https://leetcode.cn/problems/integer-break/) | Medium     | [integer_break.py](./dynamic-programming/integer_break.py)   |
 | [Jump Game I](https://leetcode.cn/problems/jump-game/)       | Medium     | [can_jump.py](./dynamic-programming/can_jump.py)             |
 | [Jump Game II](https://leetcode.cn/problems/jump-game-ii/)   | Medium     | [jump.py](./dynamic-programming/jump.py)                     |
