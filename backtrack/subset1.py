@@ -18,7 +18,7 @@ def combinations(nums: list[int], n: int) -> list[list[int]]:
             backtrack(choices[i + 1 :])
             track.pop()
 
-    backtrack()
+    backtrack(nums)
     return res
 
 
