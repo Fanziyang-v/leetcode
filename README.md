@@ -122,6 +122,7 @@
 
 | Problem                                                      | Difficulty | Solution                                                     |
 | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
+| [Beautiful Arrangement](https://leetcode.cn/problems/beautiful-arrangement/) | Medium     | [count_arrangement.py](./backtrack/count_arrangement.py)     |
 | [Combination Sum](https://leetcode.cn/problems/combination-sum/) | Medium     | [combination_sum.py](./backtrack/combination_sum.py)         |
 | [Letter Combinations of a Phone Number](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/) | Medium     | [letter_combinations.py](./backtrack/letter_combinations.py) |
 | [N-Queens I](https://leetcode.cn/problems/n-queens/)         | Hard       | [solve_n_queens1.py](./backtrack/solve_n_queens1.py)         |
