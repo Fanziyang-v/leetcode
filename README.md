@@ -90,6 +90,7 @@
 | [Coin Change](https://leetcode.cn/problems/coin-change/)     | Medium     | [coin_change.py](./dynamic-programming/coin_change.py)       |
 | [Count Sorted Vowel Strings](https://leetcode.cn/problems/count-sorted-vowel-strings/) | Medium     | [count_vowel_strings.py](./dynamic-programming/count_vowel_strings.py) |
 | [Decode Ways](https://leetcode.cn/problems/decode-ways/)     | Medium     | [num_decodings.py](./dynamic-programming/num_decodings.py)   |
+| [Delete Operation for Two Strings](https://leetcode.cn/problems/delete-operation-for-two-strings/) | Medium     | [min_distance2.py](./dynamic-programming/min_distance2.py)   |
 | [Edit Distance](https://leetcode.cn/problems/edit-distance/) | Medium     | [min_distance.py](./dynamic-programming/min_distance.py)     |
 | [Fibonacci Number](https://leetcode.cn/problems/fibonacci-number/) | Easy       | [fib.py](./dynamic-programming/fib.py)                       |
 | [House Robber I](https://leetcode.cn/problems/house-robber/) | Medium     | [rob1.py](./dynamic-programming/rob1.py)                     |
@@ -110,6 +111,7 @@
 | [Ugly Number II](https://leetcode.cn/problems/ugly-number-ii/) | Medium     | [nth_ugly_number.py](./dynamic-programming/nth_ugly_number.py) |
 | [Unique Paths I](https://leetcode.cn/problems/unique-paths/) | Medium     | [unique_paths.py](./dynamic-programming/unique_paths.py)     |
 | [Unique Paths II](https://leetcode.cn/problems/unique-paths-ii/) | Medium     | [unique_paths_with_obstacles.py](./dynamic-programming/unique_paths_with_obstacles.py) |
+| [Wiggle Subsequence](https://leetcode.cn/problems/wiggle-subsequence/) | Medium     | [wiggle_max_length.py](./dynamic-programming/wiggle_max_length.py) |
 
 ## Combinatorics
 
