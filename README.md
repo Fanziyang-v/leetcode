@@ -44,6 +44,7 @@
 | [Convert a Binary Number in a Linked List to Integer](https://leetcode.cn/problems/convert-binary-number-in-a-linked-list-to-integer/) | Easy       | [get_decimal_value.py](./linked-list/get_decimal_value.py)   |
 | [Delete the Middle Node of a Linked List](https://leetcode.cn/problems/delete-the-middle-node-of-a-linked-list/) | Medium     | [delete_middle.py](./linked-list/delete_middle.py)           |
 | [Design Circular Queue](https://leetcode.cn/problems/design-circular-queue/) | Medium     | [circular_queue.py](./linked-list/circular_queue.py)         |
+| [Insert Greatest Common Divisors in Linked List](https://leetcode.cn/problems/insert-greatest-common-divisors-in-linked-list/) | Medium     | [insert_greatest_common_divisors.py](./linked-list/insert_greatest_common_divisors.py) |
 | [Intersection of Two Linked Lists](https://leetcode.cn/problems/intersection-of-two-linked-lists/) | Easy       | [get_intersection_node.py](./linked-list/get_intersection_node.py) |
 | [Linked List Cycle](https://leetcode.cn/problems/linked-list-cycle/) | Easy       | [has_cycle.py](./linked-list/has_cycle.py)                   |
 | [Linked List Cycle II](https://leetcode.cn/problems/linked-list-cycle-ii/) | Medium     | [detect_cycle.py](./linked-list/detect_cycle.py)             |
@@ -60,6 +61,7 @@
 | [Reverse Linked List](https://leetcode.cn/problems/reverse-linked-list/) | Easy       | [reverse_list.py](./linked-list/reverse_list.py)             |
 | [Remove Nodes in Even Length Groups](https://leetcode.cn/problems/reverse-nodes-in-even-length-groups/) | Medium     | [remove_even_length_groups.py](./linked-list/remove_even_length_groups.py) |
 | [Sort List](https://leetcode.cn/problems/sort-list/)         | Medium     | [sort_list.py](./linked-list/sort_list.py)                   |
+| [Split Linked List in Parts](https://leetcode.cn/problems/split-linked-list-in-parts/) | Medium     | [split_list_to_parts.py](./linked-list/split_list_to_parts.py) |
 | [Next Greater Node in Linked List](https://leetcode.cn/problems/next-greater-node-in-linked-list/) | Medium     | [next_larger_nodes.py](./linked-list/next_larger_nodes.py)   |
 
 ## Priority Queue
