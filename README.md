@@ -46,10 +46,13 @@
 | [Intersection of Two Linked Lists](https://leetcode.cn/problems/intersection-of-two-linked-lists/) | Easy       | [get_intersection_node.py](./linked-list/get_intersection_node.py) |
 | [Linked List Cycle](https://leetcode.cn/problems/linked-list-cycle/) | Easy       | [has_cycle.py](./linked-list/has_cycle.py)                   |
 | [Linked List Cycle II](https://leetcode.cn/problems/linked-list-cycle-ii/) | Medium     | [detect_cycle.py](./linked-list/detect_cycle.py)             |
+| [LRU Cache](https://leetcode.cn/problems/lru-cache/)         | Medium     | [lru_cache.py](./linked-list/lru_cache.py)                   |
+| [Merge K Sorted Lists](https://leetcode.cn/problems/merge-k-sorted-lists/) | Hard       | [merge_k_lists.py](./linked-list/merge_k_lists.py)           |
 | [Merge Two Sorted Lists](https://leetcode.cn/problems/merge-two-sorted-lists/) | Easy       | [merge_two_lists.py](./linked-list/merge_two_lists.py)       |
 | [Middle of Linked List](https://leetcode.cn/problems/middle-of-the-linked-list/) | Easy       | [middle_node.py](./linked-list/middle_node.py)               |
 | [Odd Even Linked List](https://leetcode.cn/problems/odd-even-linked-list/) | Medium     | [odd_even_list.py](./linked-list/odd_even_list.py)           |
 | [Palindrome Linked List](https://leetcode.cn/problems/palindrome-linked-list/) | Easy       | [is_palindrome.py](./linked-list/is_palindrome.py)           |
+| [Remove Elements](https://leetcode.cn/problems/remove-linked-list-elements/) | Easy       | [remove_elements.py](./linked-list/remove_elements.py)       |
 | [Remove Nth Node from End of List](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/) | Medium     | [remove_nth_from_end.py](./linked-list/remove_nth_from_end.py) |
 | [Remove Duplicates from Sorted List](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/) | Easy       | [remove_duplicates.py](./linked-list/remove_duplicates.py)   |
 | [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.cn/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium     | [remove_zero_sum_sublists.py](./binary-tree/remove_zero_sum_sublists.py) |
