@@ -43,6 +43,7 @@
 | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
 | [Convert a Binary Number in a Linked List to Integer](https://leetcode.cn/problems/convert-binary-number-in-a-linked-list-to-integer/) | Easy       | [get_decimal_value.py](./linked-list/get_decimal_value.py)   |
 | [Delete the Middle Node of a Linked List](https://leetcode.cn/problems/delete-the-middle-node-of-a-linked-list/) | Medium     | [delete_middle.py](./linked-list/delete_middle.py)           |
+| [Design Circular Queue](https://leetcode.cn/problems/design-circular-queue/) | Medium     | [circular_queue.py](./linked-list/circular_queue.py)         |
 | [Intersection of Two Linked Lists](https://leetcode.cn/problems/intersection-of-two-linked-lists/) | Easy       | [get_intersection_node.py](./linked-list/get_intersection_node.py) |
 | [Linked List Cycle](https://leetcode.cn/problems/linked-list-cycle/) | Easy       | [has_cycle.py](./linked-list/has_cycle.py)                   |
 | [Linked List Cycle II](https://leetcode.cn/problems/linked-list-cycle-ii/) | Medium     | [detect_cycle.py](./linked-list/detect_cycle.py)             |
