@@ -9,6 +9,7 @@
 | [Add One Row to Tree](https://leetcode.cn/problems/add-one-row-to-tree/) | Medium     | [add_one_row.py](./binary-tree/add_one_row.py)               |
 | [Average of Levels in Binary Tree](https://leetcode.cn/problems/average-of-levels-in-binary-tree/) | Easy       | [average_of_levels.py](./binary-tree/average_of_levels.py)   |
 | [Balanced Binary Tree](https://leetcode.cn/problems/balanced-binary-tree/) | Easy       | [is_balanced.py](./binary-tree/is_balanced.py)               |
+| [Binary Search Tree Iterator](https://leetcode.cn/problems/binary-search-tree-iterator/) | Medium     | [bst_iterator.py](./binary-tree/bst_iterator.py)             |
 | [Binary Tree Inorder Traversal](https://leetcode.cn/problems/binary-tree-inorder-traversal/) | Easy       | [inorder_traversal.py](./binary-tree/inorder_traversal.py)   |
 | [Binary Tree Level Order Traversal](https://leetcode.cn/problems/binary-tree-level-order-traversal/) | Medium     | [level_order.py](./binary-tree/level_order.py)               |
 | [Binary Tree Postorder Traversal](https://leetcode.cn/problems/binary-tree-postorder-traversal/) | Easy       | [postorder_traversal.py](./binary-tree/postorder_traversal.py) |
@@ -31,6 +32,7 @@
 | [Path Sum I](https://leetcode.cn/problems/path-sum/)         | Medium     | [has_path_sum.py](./binary-tree/has_path_sum.py)             |
 | [Path Sum II](https://leetcode.cn/problems/path-sum-ii/)     | Medium     | [path_sum.py](./binary-tree/path_sum.py)                     |
 | [Path Sum III](https://leetcode.cn/problems/path-sum-iii/)   | Medium     | [path_sum2.py](./binary-tree/path_sum2.py)                   |
+| [Recover Binary Search Tree](https://leetcode.cn/problems/recover-binary-search-tree/) | Medium     | [recover_tree.py](./binary-tree/recover_tree.py)             |
 | [Same Tree](https://leetcode.cn/problems/same-tree/)         | Easy       | [is_same_tree.py](./binary-tree/is_same_tree.py)             |
 | [Search in a Binary Search Tree](https://leetcode.cn/problems/search-in-a-binary-search-tree/) | Easy       | [searchBST.py](./binary-tree/searchBST.py)                   |
 | [Serialize and Deserialize Binary Tree](https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/) | Hard       | [codec.py](./binary-tree/codec.py)                           |
