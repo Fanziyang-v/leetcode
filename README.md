@@ -70,7 +70,10 @@
 
 | Problem                                                      | Difficulty | Solution                                                    |
 | ------------------------------------------------------------ | ---------- | ----------------------------------------------------------- |
+| [Find Subsequence of Length K With the Largest Sum](https://leetcode.cn/problems/find-subsequence-of-length-k-with-the-largest-sum/) | Easy       | [max_subsequence.py](./priority-queue/max_subsequence.py)   |
 | [Kth Largest Element in an Array](https://leetcode.cn/problems/kth-largest-element-in-an-array/) | Medium     | [find_kth_largest.py](./priority-queue/find_kth_largest.py) |
+| [Kth Largest Element in a Stream](https://leetcode.cn/problems/kth-largest-element-in-a-stream/) | Easy       | [kth_largest.py](./priority-queue/kth_largest.py)           |
+| [The K Weakest Rows in a Matrix](https://leetcode.cn/problems/the-k-weakest-rows-in-a-matrix/) | Easy       | [k_weakest_row.py](priority-queue/k_weakest_row.py)         |
 | [Top K Frequent Words](https://leetcode.cn/problems/top-k-frequent-words/) | Medium     | [top_k_frequent.py](./priority-queue/top_k_frequent.py)     |
 
 ## Binary Search
